@@ -7,7 +7,16 @@ The current stable version is v2.1.0.
 Take a quick look at Pinpoint with our demo!
 
 ## PHP, PYTHON
-Pinpoint also supports application written in PHP, Python. Check-out our agent repository.<www.naver.com>
+Pinpoint also supports application written in PHP, Python. Check-out our agent repository.
+
+## About Pinpoint
+
+**Pinpoint** is an APM (Application Performance Management) tool for large-scale distributed systems written in Java / PHP/PYTHON. Inspired by [Dapper](https://www.naver.com/), Pinpoint provides a solution to help analyze the overall structure of the system and how components within them are interconnected by tracing transactions across distributed applications.
+
+You should definitely check **Pinpoint** out If you want to
+
+
+
 
 
 
