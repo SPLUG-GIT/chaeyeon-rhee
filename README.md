@@ -74,4 +74,62 @@ Java version required to run Pinpoint:
 |2.0.x|6-13|8|8|
 |2.1.x|6-14|8|8|
 
+HBase compatibility table:
+|Pinpoint Version|HBase 1.0.x|HBase 1.2.x|HBase 1.4.x|HBase 2.0.x|
+|------|------|------|------|------|
+|1.5.x|yes|nct tested|not tested|no|
+|1.6.x|not tested|yes|yes|no|
+|1.7.x|not tested|yes|yes|no|
+|1.8.x|not tested|yes|yes|no|
+|2.0.x|not tested|yes|yes|[optional](www.naver.com)|
+|2.1.x|not tested|yes|yes|[optional](www.naver.com)|
+
+Agent - Collector compatibility table:
+
+|Pinpoint Version|Collector 1.5.x|Collector 1.6.x|Collector 1.7.x|Collector 1.8.x|Collector 2.0.x|Collector 2.1.x|
+|------|------|------|------|------|------|------|
+|1.5.x|yes|yes|yes|yes|yes|yes|
+|1.6.x|not tested|yes|yes|yes|yes|yes|
+|1.7.x|no|no|yes|yes|yes|yes|
+|1.8.x|no|no|no|no|yes|yes|
+|2.0.x|no|no|no|no|no|yes|
+|2.1.x|no|no|no|no|no|no|
+
+Flink compatibility table:
+|Pinpoint Version|flink 1.3.x|flink 1.4.x|flink 1.5.x|flink 1.6.x|flink 1.7.x|
+|------|------|------|------|------|------|
+1.7.x|yes|yes|no|no|no|
+1.8.x|yes|yes|no|no|no|
+2.0.x|yes|yes|yes|yes|yes|
+2.1.x|yes|yes|yes|yes|yes|
+
+## Community
+
+[Github issues](www.naver.com)
+[Google group](www.naver.com)
+[Gitter](www.naver.com)
+
+We have Chinese community now, welcome to join!
+|QQ Group1: 897594820|QQ Group2: 812507584|DING Group|
+|---------------------|---------------------|---------------------|
+![qrcode](https://github.com/naver/pinpoint/blob/master/doc/images/NAVERPinpoint.png)|![qrcode](https://github.com/naver/pinpoint/blob/master/doc/images/NAVERPinpoint2.png)|![qrcode](https://github.com/naver/pinpoint/blob/master/doc/images/NaverPinpoint%E4%BA%A4%E6%B5%81%E7%BE%A4-DING.jpg)
+
+## License
+Pinpoint is licensed under the Apache License, Version 2.0. See [LICENSE](www.naver.com) for full license text.
+
+```
+Copyright 2018 NAVER Corp.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
