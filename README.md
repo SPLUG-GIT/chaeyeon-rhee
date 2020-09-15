@@ -17,6 +17,18 @@ You should definitely check **Pinpoint** out If you want to
 
 * understand your [application topology](https://www.naver.com/) at a glance
 * monitor your application in Real-Time
+* gain code-level visibility to every transaction
+* install APM Agents without changing a single line of code
+* have minimal impact on the performance (approximately 3% increase in resource usage)
+
+## Getting Started
+
+* [Quick-start guide](https://www.naver.com/) for simple test run of Pinpoint
+* [Installation guide](https://www.naver.com/) for further instructions.
+
+## Overview
+
+
 
 
 
