@@ -63,9 +63,10 @@ For a more intimate guide, please check out our [Introduction to Pinpoint video 
 ## Compatability
 
 Java version required to run Pinpoint:
+
 |Pinpoint Version|Agent|Collector|Web|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|------|---|---|---|
+|테스트1|테스트2|테스트3|테스트4|
+|테스트1|테스트2|테스트3|ㄴㄹㄴㅇㄹ|
+|테스트1|테스트2|테스트3|ㄹㅇㄴㅁㄹ|
 
