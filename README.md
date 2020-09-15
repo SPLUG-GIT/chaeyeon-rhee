@@ -42,6 +42,21 @@ For a more intimate guide, please check out our [Introduction to Pinpoint video 
 * **CallStack** - Gain code-level visibility to every transaction in a distributed environment, identifying bottlenecks and points of failure in a single view.
 ![ex_screenshot](https://github.com/naver/pinpoint/blob/master/doc/images/ss_call-stack.png)
 
+* **Inspector** - View additional details on the application such as CPU usage, Memory/Garbage Collection, TPS, and JVM arguments.
+![ex_screenshot](https://github.com/naver/pinpoint/blob/master/doc/images/ss_inspector.png)
 
+## Supported Modules
 
+* JDK 6+
+* [Tomcat 6/7/8/9, Jetty 8/9, JBoss EAP 6/7, Resin 4, Websphere 6/7/8, Vertx 3.3/3.4/3.5, Weblogic 10/11g/12c, Undertow](www.naver.com)
+* Spring, Spring Boot (Embedded Tomcat, Jetty, Undertow), Spring asynchronous communication
+* Apache HTTP Client 3.x/4.x, JDK HttpConnector, GoogleHttpClient, OkHttpClient, NingAsyncHttpClient, Akka-http, Apache CXF
+* Thrift Client, Thrift Service, DUBBO PROVIDER, DUBBO CONSUMER, GRPC
+* ActiveMQ, RabbitMQ, Kafka
+* MySQL, Oracle, MSSQL(jtds), CUBRID, POSTGRESQL, MARIA
+* Arcus, Memcached, Redis([Jedis, Lettuce](www.naver.com)), CASSANDRA, MongoDB, Hbase, Elasticsearch
+* iBATIS, MyBatis
+* DBCP, DBCP2, HIKARICP, DRUID
+* gson, Jackson, Json Lib, Fastjson
+* log4j, Logback, log4j2
 
