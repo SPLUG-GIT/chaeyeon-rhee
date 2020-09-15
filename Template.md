@@ -27,4 +27,9 @@ Usage Example
 
 ## Authors
 
+|Name|Role|Contacts
+|-----|-----|-----|
+|Joe|Backend|joe@example.com|
+
+
 ## License
