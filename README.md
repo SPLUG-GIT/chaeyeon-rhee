@@ -37,7 +37,10 @@ For a more intimate guide, please check out our [Introduction to Pinpoint video 
 
 * **Request/Response Scatter Chart** - Visualize request count and response patterns over time to identify potential problems. Transactions can be selected for additional detail by dragging over the chart.
 
-![ex_screenshot](./ss_call-stack.png)
+![ex_screenshot](https://github.com/naver/pinpoint/blob/master/doc/images/ss_server-map.png)
+
+* **CallStack** - Gain code-level visibility to every transaction in a distributed environment, identifying bottlenecks and points of failure in a single view.
+![ex_screenshot](https://github.com/naver/pinpoint/blob/master/doc/images/ss_call-stack.png)
 
 
 
