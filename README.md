@@ -60,3 +60,12 @@ For a more intimate guide, please check out our [Introduction to Pinpoint video 
 * gson, Jackson, Json Lib, Fastjson
 * log4j, Logback, log4j2
 
+## Compatability
+
+Java version required to run Pinpoint:
+|Pinpoint Version|Agent|Collector|Web|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
