@@ -1,5 +1,7 @@
 ![pinpointlogo](https://github.com/naver/pinpoint/blob/master/web/psd/logo.png)
 
+[![Build Status](https://travis-ci.org/naver/pinpoint.svg?branch=master)](https://travis-ci.org/naver/pinpoint)
+[![codecov](https://codecov.io/gh/naver/pinpoint/branch/master/graph/badge.svg)](https://codecov.io/gh/naver/pinpoint)
 
 **Visit [our official web site](www.naver.com) for more information and [Latest updates on Pinpoint](www.naver.com).**
 
