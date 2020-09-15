@@ -10,7 +10,7 @@
 *
 
 ## Installation
-
+설치과정 
 *
 *
 *
@@ -26,7 +26,7 @@ Usage Example
 [File Link](https://wwww.naver.com)
 
 ## Contributing
-공헌하기 위한 규약
+공헌하기 위한 규약 [Contributing.md](www.naver.com)
 ## Authors
 참여인원 역할, 연락처
 |Name|Role|Contacts
