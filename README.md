@@ -15,7 +15,8 @@ Pinpoint also supports application written in PHP, Python. Check-out our agent r
 
 You should definitely check **Pinpoint** out If you want to
 
-
+* understand your [application topology](https://www.naver.com/) at a glance
+* monitor your application in Real-Time
 
 
 
