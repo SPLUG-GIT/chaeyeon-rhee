@@ -37,7 +37,7 @@ For a more intimate guide, please check out our [Introduction to Pinpoint video 
 
 * **Request/Response Scatter Chart** - Visualize request count and response patterns over time to identify potential problems. Transactions can be selected for additional detail by dragging over the chart.
 
-
+![ex_screenshot](./ss_call-stack.png)
 
 
 
