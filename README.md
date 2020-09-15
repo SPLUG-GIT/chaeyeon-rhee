@@ -1,3 +1,8 @@
+![pinpointlogo](https://github.com/naver/pinpoint/blob/master/web/psd/logo.png)
+
+
+**Visit [our official web site](www.naver.com) for more information and [Latest updates on Pinpoint](www.naver.com).**
+
 ## Latest Release (2020/09/09)
 We're happy to announce the release of Pinpoint v2.1.0. Please check the release note at (https://github.com/naver/pinpoint/releases/tag/v2.1.0).
 
